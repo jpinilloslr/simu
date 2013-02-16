@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<chasis sizeX="2.3" sizeY="1.0" sizeZ="4.2" weight="8.0" wheelsCount="6" toolsCount="1" collisionBoxTransY="0.0">
+	<wheelDescriptor posX="-0.455" posY="-0.98" posZ="-2.19" canRotate="1" motor="1" initialRotation="0" maxRotation="0.8"/>
+	<wheelDescriptor posX="0.455" posY="-0.98" posZ="-2.19" canRotate="1" motor="1s" initialRotation="0" maxRotation="0.8"/>
+	<wheelDescriptor posX="-1.5" posY="-0.98" posZ="0.0" canRotate="0" motor="1" initialRotation="0" maxRotation="0.8"/>
+	<wheelDescriptor posX="1.5" posY="-0.98" posZ="0.0" canRotate="0" motor="1" initialRotation="0" maxRotation="0.8"/>
+	<wheelDescriptor posX="-1.5" posY="-0.98" posZ="2.05" canRotate="0" motor="1" initialRotation="0" maxRotation="0.8"/>
+	<wheelDescriptor posX="1.5" posY="-0.98" posZ="2.05" canRotate="0" motor="1" initialRotation="0" maxRotation="0.8"/>
+
+	<armDescriptor posX="0.0" posY="0.65" posZ="0.62"/>
+</chasis>
